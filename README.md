@@ -1,6 +1,6 @@
 # Hovrr - AI Assistant for Desktop
 
-![Hovrr Logo](https://github.com/spartan-stratos/hovrr-ai/blob/main/assets/logo.png)
+![Hovrr Logo](./assets/logo.png)
 
 **Hovrr** is a modern, privacy-respecting AI assistant for macOS and Windows, designed to supercharge your productivity, creativity, and communication.
 
