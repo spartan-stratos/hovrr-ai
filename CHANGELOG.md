@@ -3,6 +3,29 @@
 <sub><i>All notable changes to this project will be documented in this file.</i></sub>
 
 <!-- CHANGELOG_ENTRY -->
+## [v0.0.10] - 2025-06-10
+
+### ✨ Features
+- Added model management and validation functionality
+- Implemented Electron Updater with manual download capability
+- Added auto-scroll to bottom for streaming chat messages
+- Added pagination for payment history
+- Refactored Plan page for better user experience
+
+### 🐛 Bug Fixes
+- Fixed API key display and security (hiding last 4 characters)
+- Fixed convention-incompatible filenames
+- Fixed API key handling issues
+- Fixed release version and Slack notes retrieval in publish workflow
+
+### 📦 Improvements
+- Enhanced release workflow to handle multiple DMG file types for macOS
+- Updated release workflow to trigger on published releases
+- Added manual dispatch option for releases
+- Improved overall release process automation
+
+---
+
 ## [v0.0.9] - 2025-06-10
 
 v0.0.9
