@@ -3,6 +3,12 @@
 <sub><i>All notable changes to this project will be documented in this file.</i></sub>
 
 <!-- CHANGELOG_ENTRY -->
+## [v0.0.9] - 2025-06-10
+
+v0.0.9
+
+---
+
 ## [v0.0.8] - 2025-06-06
 
 ### ✨ Features
